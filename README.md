@@ -38,13 +38,7 @@ I write about tools I have created for the cyber security community, updates reg
   <a href="https://github.com/itsmehacker/darkscrape" target="_blank">
     <img width="40%" height="40%" src="https://i.imgur.com/rEvv6Sl.jpg">
   </a>
-  <a href="https://github.com/thewhiteh4t/IntelPlot" target="_blank">
+  <a href="https://github.com/itsmehacker/IntelPlot" target="_blank">
     <img width="40%" height="40%" src="https://i.imgur.com/A4DdMCr.jpg">
-  </a>
-  <a href="https://github.com/thewhiteh4t/killcast" target="_blank">
-    <img width="40%" height="40%" src="https://i.imgur.com/k9L3q2x.jpg">
-  </a>
-  <a href="https://github.com/thewhiteh4t/flashsploit" target="_blank">
-    <img width="40%" height="40%" src="https://i.imgur.com/KoY1Y96.jpg">
   </a>
 </p>
