@@ -1,6 +1,6 @@
 <p align="right">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/istmehacker?label=Followers">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=thewhiteh4t.visitor-badge"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=istmehacker.visitor-badge"> 
 </p>
 
 <a href="https://www.iamhdpro.com" target="_blank">
